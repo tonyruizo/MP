@@ -4,7 +4,7 @@ This is my personal portfolio to showcase projects I've build or currently worki
 
 ## Authors 
 
-[Tonyruizo](https://gitlab.com/tonyruizo)
+[Tonyruizo](https://github.com/tonyruizo)
 
 ## License
 
