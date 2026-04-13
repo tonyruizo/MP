@@ -1,7 +1,7 @@
 import ProfilePhoto from "../../assets/profile-no-bg.webp";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
-import { faGitlab, faLinkedin } from "@fortawesome/free-brands-svg-icons";
+import { faGithub, faLinkedin } from "@fortawesome/free-brands-svg-icons";
 
 export default function Hero() {
   return (
@@ -11,7 +11,7 @@ export default function Hero() {
         <div className="shrink-0">
           <img
             src={ProfilePhoto}
-            alt="Tony Ruizo - Anime Portrait"
+            alt="TonyRuizo - Anime Portrait"
             className="w-64 h-64 md:w-70 md:h-70 rounded-full object-cover shadow-2xl border-4 border-white ring-4 ring-amber-600/30"
           />
         </div>
@@ -27,13 +27,13 @@ export default function Hero() {
           <div className="flex justify-center lg:justify-start gap-4">
             {/* GitLab */}
             <a
-              href="https://gitlab.com/tonyruizo"
+              href="https://github.com/tonyruizo"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-600/70 hover:text-amber-600/70 transition transform hover:scale-110"
-              aria-label="GitLab Profile"
+              aria-label="GitHub Profile"
             >
-              <FontAwesomeIcon icon={faGitlab} size="lg" />
+              <FontAwesomeIcon icon={faGithub} size="lg" />
             </a>
             {/* Email */}
             <a
