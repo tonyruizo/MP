@@ -1,0 +1,11 @@
+/*GLOBAL*/
+
+@import "tailwindcss";
+
+/*:root {
+    --primary-text-color: oklch(66.6%, 0.179, 58.318);
+    color-scheme: light dark;
+}*/
+html {
+    scroll-behavior: smooth;
+}

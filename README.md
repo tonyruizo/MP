@@ -2,7 +2,7 @@
 
 This is my personal portfolio to showcase projects I've build or currently working on.
 
-## Authors 
+## Authors
 
 [Tonyruizo](https://github.com/tonyruizo)
 
